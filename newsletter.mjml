@@ -2,13 +2,60 @@
   <mj-head>
     <mj-title>Newsletter Mirai</mj-title>
     <mj-attributes>
-
+      <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins" />
+      <mj-preview>Ciao a tutti! mirai è qui</mj-preview>
     </mj-attributes>
   </mj-head>
   <mj-body>
-    <mj-section>
-      <mj-column width="200px">
-        ciao
+    <mj-section background-color="#F7514E">
+      <mj-column>
+        <mj-text font-family="Poppins" font-weight="900" font-size="20px" color="#fff">
+          mirai
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F7514E">
+      <mj-column width="500px">
+
+        <mj-image src="http://placeimg.com/640/480/fashion" alt="mirai logo extended" />
+        <mj-text font-size="20px" font-family="Poppins" color="#ffffff" align="center">My Awesome
+          Text</mj-text>
+
+        <mj-text color="#ffffff" align="center">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu
+          semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus, sit
+          amet suscipit nibh. Proin nec commodo purus. Sed eget nulla elit. Nulla aliquet mollis faucibus.
+        </mj-text>
+
+        <mj-button background-color="#F45E43" href="#">Learn more</mj-button>
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="white">
+
+      <!-- Left image -->
+      <mj-column>
+        <mj-image width="200px" src="https://designspell.files.wordpress.com/2012/01/sciolino-paris-bw.jpg" />
+      </mj-column>
+
+      <!-- right paragraph -->
+      <mj-column>
+        <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262">
+          Find amazing places
+        </mj-text>
+
+        <mj-text color="#525252">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu
+          semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus.
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F7514E">
+      <mj-column>
+        <mj-social>
+          <mj-social-element name="instagram" />
+        </mj-social>
       </mj-column>
     </mj-section>
   </mj-body>
