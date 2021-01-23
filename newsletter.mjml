@@ -8,7 +8,7 @@
     </mj-attributes>
   </mj-head>
   <mj-body>
-    <mj-section background-color="#F7514E">
+    <mj-section background-color="#F7514E" padding-bottom="0px">
       <mj-column>
         <mj-text font-family="Poppins" font-weight="900" font-size="20px" color="#fff">
           mirai
@@ -16,7 +16,7 @@
       </mj-column>
     </mj-section>
     <mj-section background-color="#F7514E">
-      <mj-column width="500px">
+      <mj-column width="500px" padding-top="0px">
 
         <mj-image src="https://raw.githubusercontent.com/mirai-plus/newsletters/main/img/logo_mail.png" width="400px" alt="mirai logo extended" />
         <mj-text font-size="20px" font-family="Poppins" color="#ffffff" align="center">My Awesome
@@ -50,15 +50,19 @@
           semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus.
         </mj-text>
 
-        <mj-button background-color="#F7514E" align="left" href="#" font-family="Poppins">Learn more</mj-button>
+        <mj-button background-color="#3B6ED6" href="#" font-family="Poppins">Learn more</mj-button>
 
       </mj-column>
     </mj-section>
     <mj-section background-color="#F7514E">
       <mj-column>
-        <mj-social>
-          <mj-social-element name="instagram" />
-        </mj-social>
+        <mj-image width="30px" src="https://191n.mj.am/img/191n/3s/x0l.png" />
+      </mj-column>
+      <mj-column>
+        <mj-image width="30px" src="https://191n.mj.am/img/191n/3s/x01.png" />
+      </mj-column>
+      <mj-column>
+        <mj-image width="30px" src="https://191n.mj.am/img/191n/3s/x0s.png" />
       </mj-column>
     </mj-section>
   </mj-body>
