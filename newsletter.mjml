@@ -18,7 +18,7 @@
     <mj-section background-color="#F7514E">
       <mj-column width="500px">
 
-        <mj-image src="https://raw.githubusercontent.com/mirai-plus/newsletters/main/logo_mail.png" width="400px" alt="mirai logo extended" />
+        <mj-image src="https://raw.githubusercontent.com/mirai-plus/newsletters/main/img/logo_mail.png" width="400px" alt="mirai logo extended" />
         <mj-text font-size="20px" font-family="Poppins" color="#ffffff" align="center">My Awesome
           Text</mj-text>
 
