@@ -54,19 +54,23 @@
 
       </mj-column>
     </mj-section>
-    <mj-section background-color="#fff">
-      <mj-column width="300px">
-        <mj-text>Seguici anche su</mj-text>
+    <mj-section background-color="#F7514E">
+      <mj-column padding="0">
+        <mj-text color="#FFFFFF" align="center">Seguici anche su</mj-text>
       </mj-column>
-      <mj-column width="70px">
-        <mj-image src="https://raw.githubusercontent.com/mirai-plus/newsletters/main/img/mirai_logo.png" />
-      </mj-column>
-      <mj-column width="70px">
-        <mj-image  src="https://raw.githubusercontent.com/mirai-plus/newsletters/main/img/github_logo.png" />
-      </mj-column>
-      <mj-column width="70px">
-        <mj-image  src="https://raw.githubusercontent.com/mirai-plus/newsletters/main/img/discord_logo.png" />
-      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F7514E">
+      <mj-group>
+        <mj-column>
+          <mj-image width="30px" padding="10px" src="https://raw.githubusercontent.com/mirai-plus/newsletters/main/img/mirai_logo.svg" href="https://www.mirai.plus">
+        </mj-column>
+        <mj-column>
+          <mj-image width="30px" padding="10px" src="https://raw.githubusercontent.com/mirai-plus/newsletters/main/img/github_logo.svg" />
+        </mj-column>
+        <mj-column>
+          <mj-image width="30px" padding="10px" src="https://raw.githubusercontent.com/mirai-plus/newsletters/main/img/discord_logo.svg" />
+        </mj-column>
+      </mj-group>
     </mj-section>
   </mj-body>
 </mjml>
