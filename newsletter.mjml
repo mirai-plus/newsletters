@@ -56,13 +56,13 @@
     </mj-section>
     <mj-section background-color="#F7514E">
       <mj-column>
-        <mj-image width="30px" src="https://191n.mj.am/img/191n/3s/x0l.png" />
+        <mj-image width="30px" src="https://raw.githubusercontent.com/mirai-plus/newsletters/main/img/mirai_logo.png" />
       </mj-column>
       <mj-column>
-        <mj-image width="30px" src="https://191n.mj.am/img/191n/3s/x01.png" />
+        <mj-image width="30px" src="https://raw.githubusercontent.com/mirai-plus/newsletters/main/img/github_logo.png" />
       </mj-column>
       <mj-column>
-        <mj-image width="30px" src="https://191n.mj.am/img/191n/3s/x0s.png" />
+        <mj-image width="30px" src="https://raw.githubusercontent.com/mirai-plus/newsletters/main/img/discord_logo.png" />
       </mj-column>
     </mj-section>
   </mj-body>
