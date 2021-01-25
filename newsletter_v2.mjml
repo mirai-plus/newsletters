@@ -36,7 +36,7 @@
       background-width="600px"
       background-height="200px"
       background-url="https://images.unsplash.com/photo-1460518451285-97b6aa326961?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80"
-      background-color="#2a3448"
+      background-color="#2a3564"
       padding="70px 0px"
       width="100%">
       <mj-text
@@ -51,18 +51,18 @@
         Orientamento post diploma
       </mj-text>
       <mj-button  align="center">
-        
+        testo
       </mj-button>
     </mj-hero>
     <mj-section background-color="white" padding="0">
 
       <!-- Left image -->
-      <mj-column padding="0">
+      <mj-column padding="0" vertical-align="middle">
         <mj-image src="https://images.unsplash.com/photo-1568383293350-156a59eb6491" padding="0">
       </mj-column>
 
       <!-- right paragraph -->
-      <mj-column>
+      <mj-column vertical-align="middle">
         <mj-text font-size="20px" color="#626262" align="center">
           Find amazing places
         </mj-text>
