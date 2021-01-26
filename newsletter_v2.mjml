@@ -14,12 +14,11 @@
       </mj-column>
     </mj-section>
     <mj-section background-color="#F7514E">
-      <mj-column  padding-top="0px">
+      <mj-column padding-top="0px">
         <mj-text font-family="Poppins" font-weight="900" font-size="50px" color="#fff">
           mirai
         </mj-text>
-        <mj-text font-size="20px" font-family="Poppins" color="#ffffff" align="left">My Awesome
-          Text</mj-text>
+        <mj-text font-size="20px" font-family="Poppins" color="#ffffff" align="left" line-height="28px">Collettivo autonomo LGBT+ Transfemminista</mj-text>
 
         <mj-text color="#ffffff" align="left" line-height="20px">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu
@@ -27,33 +26,50 @@
           amet suscipit nibh. Proin nec commodo purus. Sed eget nulla elit. Nulla aliquet mollis faucibus.
         </mj-text>
 
-        <mj-button background-color="#3B6ED6" href="#" font-family="Poppins" align="left">Learn more</mj-button>
+        <mj-button background-color="#3B6ED6" href="#" font-family="Poppins" align="left" text-transform="uppercase" href="#">Scopri</mj-button>
 
       </mj-column>
     </mj-section>
-    <mj-hero
-      mode="fluid-height"
-      background-width="600px"
-      background-height="200px"
-      background-url="https://images.unsplash.com/photo-1460518451285-97b6aa326961?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80"
-      background-color="#2a3564"
-      padding="70px 0px"
-      width="100%">
-      <mj-text
-        padding="20px"
-        color="#ffffff"
-        font-family="Helvetica"
-        align="center"
-        font-size="40px"
-        line-height="45px"
-        font-weight="900"
-        text-transform="uppercase">
+
+
+    <mj-section background-color="white">
+      <!-- right paragraph -->
+      <mj-column vertical-align="middle">
+        <mj-text font-size="20px" color="#626262" align="center">
+          Find amazing places
+        </mj-text>
+
+        <mj-text color="#525252" align="center">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur
+        </mj-text>
+        <mj-button background-color="#3B6ED6" href="#" font-family="Poppins" align="center" text-transform="uppercase" href="#">Scopri</mj-button>
+      </mj-column>
+
+      <!-- Left image -->
+      <mj-column  vertical-align="middle">
+        <mj-image src="https://images.unsplash.com/photo-1568383293350-156a59eb6491" >
+      </mj-column>
+
+    </mj-section>
+
+
+    <mj-hero 
+    mode="fluid-height" 
+    background-width="600px" 
+    background-height="200px" 
+    background-url="https://images.unsplash.com/photo-1460518451285-97b6aa326961?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80" 
+    background-color="#2a3564" 
+    padding="30px 0px" 
+    width="100%">
+      <mj-text padding="20px" color="#ffffff" font-family="Helvetica" align="center" font-size="40px" line-height="45px" font-weight="900" text-transform="uppercase">
         Orientamento post diploma
       </mj-text>
-      <mj-button  align="center">
+      <mj-button align="center" background-color="#F7514E" text-transform="uppercase">
         testo
       </mj-button>
     </mj-hero>
+
+
     <mj-section background-color="white" padding="0">
 
       <!-- Left image -->
@@ -71,23 +87,23 @@
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur
         </mj-text>
 
-        
+
 
       </mj-column>
     </mj-section>
     <mj-section background-color="#F7514E">
       <mj-group>
-        <mj-column padding="0" width="40%" vertical-align="middle"> 
+        <mj-column padding="0" width="60%" vertical-align="middle">
           <mj-text color="#FFFFFF" align="center">Seguici anche su</mj-text>
         </mj-column>
-        <mj-column width="20%" vertical-align="middle">
+        <mj-column width="10%" vertical-align="middle">
           <mj-image width="30px" padding="10px" src="https://raw.githubusercontent.com/mirai-plus/newsletters/main/img/mirai_logo.svg" href="https://www.mirai.plus">
         </mj-column>
-        <mj-column width="20%" vertical-align="middle">
+        <mj-column width="10%" vertical-align="middle">
           <mj-image width="30px" padding="10px" src="https://raw.githubusercontent.com/mirai-plus/newsletters/main/img/github_logo.svg" href="https://www.github.com/mirai-plus" />
         </mj-column>
-        <mj-column width="20%" vertical-align="middle">
-          <mj-image width="30px" padding="10px" src="https://raw.githubusercontent.com/mirai-plus/newsletters/main/img/discord_logo.svg"  href="https://discord.gg/dRmhEgGsWH">
+        <mj-column width="10%" vertical-align="middle">
+          <mj-image width="30px" padding="10px" src="https://raw.githubusercontent.com/mirai-plus/newsletters/main/img/discord_logo.svg" href="https://discord.gg/dRmhEgGsWH">
         </mj-column>
       </mj-group>
     </mj-section>
