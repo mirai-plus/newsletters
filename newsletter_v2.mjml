@@ -52,24 +52,6 @@
 
     </mj-section>
 
-
-    <mj-hero 
-    mode="fluid-height" 
-    background-width="600px" 
-    background-height="200px" 
-    background-url="https://images.unsplash.com/photo-1460518451285-97b6aa326961?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80" 
-    background-color="#2a3564" 
-    padding="30px 0px" 
-    width="100%">
-      <mj-text padding="20px" color="#ffffff" font-family="Helvetica" align="center" font-size="40px" line-height="45px" font-weight="900" text-transform="uppercase">
-        Orientamento post diploma
-      </mj-text>
-      <mj-button align="center" background-color="#F7514E" text-transform="uppercase">
-        testo
-      </mj-button>
-    </mj-hero>
-
-
     <mj-section background-color="white" padding="0">
 
       <!-- Left image -->
@@ -110,20 +92,9 @@
     </mj-section>
 
     <mj-section background-color="#F7514E">
-      <mj-group>
-        <mj-column padding="0" width="60%" vertical-align="middle">
-          <mj-text color="#FFFFFF" align="center">Seguici anche su</mj-text>
+        <mj-column padding="0" vertical-align="middle">
+          <mj-text color="#FFFFFF" align="center">A presto anche su altri canali social</mj-text>
         </mj-column>
-        <mj-column width="10%" vertical-align="middle">
-          <mj-image width="30px" padding="10px" src="https://raw.githubusercontent.com/mirai-plus/newsletters/main/img/mirai_logo.svg" href="https://www.mirai.plus">
-        </mj-column>
-        <mj-column width="10%" vertical-align="middle">
-          <mj-image width="30px" padding="10px" src="https://raw.githubusercontent.com/mirai-plus/newsletters/main/img/github_logo.svg" href="https://www.github.com/mirai-plus" />
-        </mj-column>
-        <mj-column width="10%" vertical-align="middle">
-          <mj-image width="30px" padding="10px" src="https://raw.githubusercontent.com/mirai-plus/newsletters/main/img/discord_logo.svg" href="https://discord.gg/dRmhEgGsWH">
-        </mj-column>
-      </mj-group>
     </mj-section>
   </mj-body>
 </mjml>
