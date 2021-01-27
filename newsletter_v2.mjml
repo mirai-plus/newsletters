@@ -86,11 +86,29 @@
         <mj-text color="#525252" align="center">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur
         </mj-text>
-
-
-
       </mj-column>
     </mj-section>
+
+  <mj-section background-color="white">
+      <!-- right paragraph -->
+      <mj-column vertical-align="middle">
+        <mj-text font-size="20px" color="#626262" align="center">
+          Find amazing places
+        </mj-text>
+
+        <mj-text color="#525252" align="center">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur
+        </mj-text>
+        <mj-button background-color="#3B6ED6" href="#" font-family="Poppins" align="center" text-transform="uppercase" href="#">Scopri</mj-button>
+      </mj-column>
+
+      <!-- Left image -->
+      <mj-column  vertical-align="middle">
+        <mj-image src="https://images.unsplash.com/photo-1568383293350-156a59eb6491" >
+      </mj-column>
+
+    </mj-section>
+
     <mj-section background-color="#F7514E">
       <mj-group>
         <mj-column padding="0" width="60%" vertical-align="middle">
