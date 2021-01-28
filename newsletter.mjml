@@ -1,74 +1,100 @@
 <mjml>
   <mj-head>
-    <mj-title>Newsletter Mirai</mj-title>
+    <mj-title>mirai - Benvenut*</mj-title>
     <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;800&display=swap" />
     <mj-preview>Ciao a tutti! mirai è qui</mj-preview>
     <mj-attributes>
       <mj-all font-family="Poppins" />
     </mj-attributes>
   </mj-head>
-  <mj-body>
+  <mj-body width="500px">
     <mj-section background-color="#F7514E" padding-bottom="0px">
       <mj-column>
-        <mj-text font-family="Poppins" font-weight="900" font-size="20px" color="#fff">
-          mirai
-        </mj-text>
+        <mj-image src="https://raw.githubusercontent.com/mirai-plus/mirai/1c3471fcd2e7f55e45bd2304bf061fcb7d2af3b4/public/img/m.svg" width="50px" alt="mirai logo extended" align="left" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#F7514E">
-      <mj-column width="500px" padding-top="0px">
+      <mj-column padding-top="0px">
+        <mj-text font-family="Poppins" font-weight="900" font-size="50px" color="#fff">
+          mirai
+        </mj-text>
+        <mj-text font-size="20px" font-family="Poppins" color="#ffffff" align="left" line-height="28px">Collettivo autonomo Transfemminista Intersezionale</mj-text>
 
-        <mj-image src="https://raw.githubusercontent.com/mirai-plus/newsletters/main/img/logo_mail.png" width="400px" alt="mirai logo extended" />
-        <mj-text font-size="20px" font-family="Poppins" color="#ffffff" align="center">My Awesome
-          Text</mj-text>
-
-        <mj-text color="#ffffff" align="center" line-height="20px">
+        <mj-text color="#ffffff" align="left" line-height="20px">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu
           semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus, sit
           amet suscipit nibh. Proin nec commodo purus. Sed eget nulla elit. Nulla aliquet mollis faucibus.
         </mj-text>
 
-        <mj-button background-color="#3B6ED6" href="#" font-family="Poppins">Learn more</mj-button>
+        <mj-button background-color="#3B6ED6" href="#" font-family="Poppins" align="left" text-transform="uppercase" href="#">Scopri</mj-button>
 
       </mj-column>
     </mj-section>
+
+
     <mj-section background-color="white">
-
-      <!-- Left image -->
-      <mj-column>
-        <mj-image width="200px" src="http://placeimg.com/640/480/food" />
-      </mj-column>
-
       <!-- right paragraph -->
-      <mj-column>
-        <mj-text font-size="20px" color="#626262">
+      <mj-column vertical-align="middle">
+        <mj-text font-size="20px" color="#626262" align="center">
           Find amazing places
         </mj-text>
 
-        <mj-text color="#525252">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur, eu
-          semper augue semper. Aliquam erat volutpat. Cras id dui lectus. Vestibulum sed finibus lectus.
+        <mj-text color="#525252" align="center">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur
+        </mj-text>
+        <mj-button background-color="#3B6ED6" href="#" font-family="Poppins" align="center" text-transform="uppercase" href="#">Scopri</mj-button>
+      </mj-column>
+
+      <!-- Left image -->
+      <mj-column  vertical-align="middle">
+        <mj-image src="https://images.unsplash.com/photo-1568383293350-156a59eb6491" >
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section background-color="white" padding="0">
+
+      <!-- Left image -->
+      <mj-column padding="0" vertical-align="middle">
+        <mj-image src="https://images.unsplash.com/photo-1568383293350-156a59eb6491" padding="0">
+      </mj-column>
+
+      <!-- right paragraph -->
+      <mj-column vertical-align="middle">
+        <mj-text font-size="20px" color="#626262" align="center">
+          Find amazing places
         </mj-text>
 
-        <mj-button background-color="#3B6ED6" href="#" font-family="Poppins">Learn more</mj-button>
-
+        <mj-text color="#525252" align="center">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur
+        </mj-text>
       </mj-column>
     </mj-section>
+
+  <mj-section background-color="white">
+      <!-- right paragraph -->
+      <mj-column vertical-align="middle">
+        <mj-text font-size="20px" color="#626262" align="center">
+          Find amazing places
+        </mj-text>
+
+        <mj-text color="#525252" align="center">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur
+        </mj-text>
+        <mj-button background-color="#3B6ED6" href="#" font-family="Poppins" align="center" text-transform="uppercase" href="#">Scopri</mj-button>
+      </mj-column>
+
+      <!-- Left image -->
+      <mj-column  vertical-align="middle">
+        <mj-image src="https://images.unsplash.com/photo-1568383293350-156a59eb6491" >
+      </mj-column>
+
+    </mj-section>
+
     <mj-section background-color="#F7514E">
-      <mj-group>
-        <mj-column padding="0" width="60%" vertical-align="middle">
-          <mj-text color="#FFFFFF" align="center">Seguici anche su</mj-text>
+        <mj-column padding="0" vertical-align="middle">
+          <mj-text color="#FFFFFF" align="center">A presto anche su altri canali social</mj-text>
         </mj-column>
-        <mj-column width="10%" vertical-align="middle">
-          <mj-image width="30px" padding="10px" src="https://raw.githubusercontent.com/mirai-plus/newsletters/main/img/mirai_logo.svg" href="https://www.mirai.plus">
-        </mj-column>
-        <mj-column width="10%" vertical-align="middle">
-          <mj-image width="30px" padding="10px" src="https://raw.githubusercontent.com/mirai-plus/newsletters/main/img/github_logo.svg" href="https://www.github.com/mirai-plus" />
-        </mj-column>
-        <mj-column width="10%" vertical-align="middle">
-          <mj-image width="30px" padding="10px" src="https://raw.githubusercontent.com/mirai-plus/newsletters/main/img/discord_logo.svg" href="https://discord.gg/dRmhEgGsWH">
-        </mj-column>
-      </mj-group>
     </mj-section>
   </mj-body>
 </mjml>
