@@ -31,6 +31,11 @@
       </mj-column>
     </mj-section>
 
+<mj-section background-color="#F7514E" padding="0">
+  <mj-column>
+    <mj-image src="https://github.com/mirai-plus/newsletters/blob/main/img/banner.png?raw=true" alt="banner sagome" padding="0" />
+  </mj-column>
+</mj-section>
 
     <mj-section background-color="white">
       <!-- right paragraph -->
