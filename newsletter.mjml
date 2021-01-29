@@ -31,11 +31,11 @@
       </mj-column>
     </mj-section>
 
-<mj-section background-color="#F7514E" padding="0">
-  <mj-column>
-    <mj-image src="https://github.com/mirai-plus/newsletters/blob/main/img/banner.png?raw=true" alt="banner sagome" padding="0" />
-  </mj-column>
-</mj-section>
+    <mj-section background-color="#F7514E" padding="0">
+      <mj-column>
+        <mj-image src="https://github.com/mirai-plus/newsletters/blob/main/img/banner.png?raw=true" alt="banner sagome" padding="0" />
+      </mj-column>
+    </mj-section>
 
     <mj-section background-color="white">
       <!-- right paragraph -->
@@ -51,8 +51,8 @@
       </mj-column>
 
       <!-- Left image -->
-      <mj-column  vertical-align="middle">
-        <mj-image src="https://images.unsplash.com/photo-1568383293350-156a59eb6491" >
+      <mj-column vertical-align="middle">
+        <mj-image src="https://images.unsplash.com/photo-1568383293350-156a59eb6491">
       </mj-column>
 
     </mj-section>
@@ -76,7 +76,7 @@
       </mj-column>
     </mj-section>
 
-  <mj-section background-color="white">
+    <mj-section background-color="white">
       <!-- right paragraph -->
       <mj-column vertical-align="middle">
         <mj-text font-size="20px" color="#626262" align="center">
@@ -90,16 +90,16 @@
       </mj-column>
 
       <!-- Left image -->
-      <mj-column  vertical-align="middle">
-        <mj-image src="https://images.unsplash.com/photo-1568383293350-156a59eb6491" >
+      <mj-column vertical-align="middle">
+        <mj-image src="https://images.unsplash.com/photo-1568383293350-156a59eb6491">
       </mj-column>
 
     </mj-section>
 
     <mj-section background-color="#F7514E">
-        <mj-column padding="0" vertical-align="middle">
-          <mj-text color="#FFFFFF" align="center">A presto anche su altri canali social</mj-text>
-        </mj-column>
+      <mj-column padding="0" vertical-align="middle">
+        <mj-text color="#FFFFFF" align="center">A presto anche su altri canali social</mj-text>
+      </mj-column>
     </mj-section>
   </mj-body>
 </mjml>
