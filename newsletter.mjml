@@ -58,7 +58,6 @@
         <mj-text color="#525252" align="left">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur
         </mj-text>
-        <mj-button background-color="#3B6ED6" href="#" font-family="Poppins" align="left" text-transform="uppercase" href="#">Scopri</mj-button>
       </mj-column>
 
       <!-- Left image -->
