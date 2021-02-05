@@ -13,7 +13,7 @@
         <mj-text font-family="Poppins" font-weight="900" font-size="50px" color="#fff" line-height="40px">mirai</mj-text>
         <mj-text font-size="20px" font-family="Poppins" color="#ffffff" line-height="22px" font-weight="200">Collettivo autonomo intersezionale</mj-text>
         <mj-spacer height="10px"></mj-spacer>
-        <mj-text color="#ffffff" line-height="20px" font-size="13px" font-weight="200"> Abbiamo come obiettivo costruire un percorso orizzontale condiviso di educazione, che si possa <b style="font-weight:600;">adattare alle necessità</b> e che si arricchisca grazie a chi vi partecipa. Vogliamo parlare di tanti temi a cui non si presta ancora abbastanza attenzione.</br></br> I tre temi più richiesti sono stati <b style="font-weight:600;">orientamento post-diploma, educazione sessuale e benessere pisco-fisico</b>. Organizzeremo incontri e laboratori extrascolastici durante la settimana a cadenza variabile gestiti da noi o con ospiti. <br></br> Nel frattempo, vi lasciamo con una breve presentazione e <b style="font-weight:600;">3 consigli</b> di cose che ci piacciono, sempre sul tema di ciò che pensiamo sia ancora ai margini o esterno a ciò che viene di solito insegnato a scuola. </mj-text>
+        <mj-text color="#ffffff" line-height="22px" font-size="16px" font-weight="200"> Abbiamo come obiettivo costruire un percorso orizzontale condiviso di educazione, che si possa <b style="font-weight:600;">adattare alle necessità</b> e che si arricchisca grazie a chi vi partecipa. Vogliamo parlare di tanti temi a cui non si presta ancora abbastanza attenzione.</br></br> I tre temi più richiesti sono stati <b style="font-weight:600;">orientamento post-diploma, educazione sessuale e benessere pisco-fisico</b>. Organizzeremo incontri e laboratori extrascolastici durante la settimana a cadenza variabile gestiti da noi o con ospiti. <br></br> Nel frattempo, vi lasciamo con una breve presentazione e <b style="font-weight:600;">3 consigli</b> di cose che ci piacciono, sempre sul tema di ciò che pensiamo sia ancora ai margini o esterno a ciò che viene di solito insegnato a scuola. </mj-text>
       </mj-column>
     </mj-section>
     <!--BANNER PER RICAPITOLARE-->
@@ -28,7 +28,7 @@
       </mj-column>
       <mj-column width="33%">
         <mj-image src="https://github.com/mirai-plus/newsletters/blob/main/img/graph.png?raw=true" width="65px" padding-bottom="0px"></mj-image>
-        <mj-text align="center" font-size="16px" line-height="18px">Su cosa?</br>Sui <b>dati raccolti</b></br>nel form</mj-text>
+        <mj-text align="center" font-size="16px" line-height="18px">Su cosa?</br>Sui <b>dati raccolti</b> nel form</mj-text>
       </mj-column>
       <mj-column width="33%">
         <mj-image src="https://github.com/mirai-plus/newsletters/blob/main/img/search.png?raw=true" width="65px" padding-bottom="0px"></mj-image>
@@ -36,11 +36,10 @@
       </mj-column>
     </mj-section>
     <!--SEZIONE PRESENTAZIONI-->
-
     <mj-section padding-top="25px">
       <mj-column>
-        <mj-text font-size="25px" font-weight="400">Giosuè</mj-text>
-        <mj-text font-size="13px" font-weight="200" line-height="16px">Ciao ragazz*! Sono Giosuè e sono uno studente laureando in lettere moderne, presidente di Politéia, un’associazione culturale mirandolese che tratta di attualità e politica, e giornalista per La Falla, giornale del Cassero LGBTI+ Center di Bologna. </mj-text>
+        <mj-text font-size="25px" font-weight="600">Giosuè</mj-text>
+        <mj-text font-size="15px" font-weight="200" line-height="20px">Ciao ragazz*! Sono Giosuè e sono uno studente laureando in lettere moderne, presidente di Politéia, un’associazione culturale mirandolese che tratta di attualità e politica, e giornalista per La Falla, giornale del Cassero LGBTI+ Center di Bologna. </mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding-top="0">
@@ -48,19 +47,19 @@
         <mj-image src="https://github.com/mirai-plus/newsletters/blob/main/img/gio_foto.png?raw=true" padding="0"></mj-image>
       </mj-column>
       <mj-column vertical-align="middle">
-        <mj-text font-size="13px" font-weight="200" line-height="16px">Nonostante la laurea in lettere, la mia grande passione è il Giappone, per questo il link che vi lascio è quello di NipPop, associazione culturale di Bologna che ha come obiettivo l’esplorazione della cultura pop del Giappone contemporaneo.</mj-text>
+        <mj-text font-size="15px" font-weight="200" line-height="20px">Nonostante la laurea in lettere, la mia grande passione è il Giappone, per questo il link che vi lascio è quello di NipPop, associazione culturale di Bologna che ha come obiettivo l’esplorazione della cultura pop del Giappone contemporaneo.</mj-text>
         <mj-text font-size="16px" font-weight="200" line-height="16px" text-decoration="underline"><a href="https://www.nippop.it/it" style="color:inherit">Scopri NipPop</a></mj-text>
       </mj-column>
     </mj-section>
-<mj-section padding="0 20px">
-  <mj-column>
-  <mj-divider border-color="#4A7CDD" border-style="dashed" border-width="2px" padding="0"></mj-divider>
-  </mj-column>
-</mj-section>
-<mj-section padding-top="15px">
+    <mj-section padding="0 20px">
       <mj-column>
-        <mj-text font-size="25px" font-weight="400">Eleonora</mj-text>
-        <mj-text font-size="13px" font-weight="200" line-height="16px">Ciao! Sono Eleonora e sono una studentessa laureanda in lingue e letterature straniere. Scrivo e collaboro con CanadaUsa.net, progetto dell’Università di Bologna, e mi interesso di cultura pop e studi di genere.</mj-text>
+        <mj-divider border-color="#4A7CDD" border-style="dashed" border-width="2px" padding="0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="15px">
+      <mj-column>
+        <mj-text font-size="25px" font-weight="600">Eleonora</mj-text>
+        <mj-text font-size="15px" font-weight="200" line-height="20px">Ciao! Sono Eleonora e sono una studentessa laureanda in lingue e letterature straniere. Scrivo e collaboro con CanadaUsa.net, progetto dell’Università di Bologna, e mi interesso di cultura pop e studi di genere.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding-top="0" direction="rtl">
@@ -68,31 +67,41 @@
         <mj-image src="https://github.com/mirai-plus/newsletters/blob/main/img/elli_foto.png?raw=true" padding="0"></mj-image>
       </mj-column>
       <mj-column vertical-align="middle">
-        <mj-text font-size="13px" font-weight="200" line-height="16px">Il mio consiglio è Stone Butch Blues, un libro di Leslie Feinberg disponibile gratuitamente online in inglese e francese. Non è una lettura leggera, ma in questo romanzo vengono affrontate tantissime tematiche ancora attuali come la sessualità, i ruoli di genere, il lavoro e le brutalità della vita negli Stati Uniti.</mj-text>
+        <mj-text font-size="15px" font-weight="200" line-height="20px">Il mio consiglio è Stone Butch Blues, un libro di Leslie Feinberg disponibile gratuitamente online in inglese e francese. Non è una lettura leggera, ma in questo romanzo vengono affrontate tantissime tematiche ancora attuali come la sessualità, i ruoli di genere, il lavoro e le brutalità della vita negli Stati Uniti.</mj-text>
         <mj-text font-size="16px" font-weight="200" line-height="16px" text-decoration="underline"><a href="https://www.lesliefeinberg.net/" style="color:inherit">Scopri Feinberg</a></mj-text>
       </mj-column>
     </mj-section>
-<mj-section padding="0 20px">
-  <mj-column>
-  <mj-divider border-color="#4A7CDD" border-style="dashed" border-width="2px" padding="0"></mj-divider>
-  </mj-column>
-</mj-section>
-<mj-section padding-top="15px">
+    <mj-section padding="0 20px">
       <mj-column>
-        <mj-text font-size="25px" font-weight="400">Francesco</mj-text>
-        <mj-text font-size="13px" font-weight="200" line-height="16px">Ciao a tutt*! Mi chiamo Francesco e sono un Web e Graphic Designer da 4 anni, attivista per ArciGay e peer educator specializzato in salute sessuale e affettività.</mj-text>
+        <mj-divider border-color="#4A7CDD" border-style="dashed" border-width="2px" padding="0"></mj-divider>
       </mj-column>
     </mj-section>
-    <mj-section padding-top="0" padding-bottom="0">
+    <mj-section padding-top="15px">
+      <mj-column>
+        <mj-text font-size="25px" font-weight="600">Francesco</mj-text>
+        <mj-text font-size="15px" font-weight="200" line-height="20px">Ciao a tutt*! Mi chiamo Francesco e sono un Web e Graphic Designer da 4 anni, attivista per ArciGay e peer educator specializzato in salute sessuale e affettività.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
       <mj-column vertical-align="middle">
         <mj-image src="https://github.com/mirai-plus/newsletters/blob/main/img/luppi_foto.png?raw=true" padding="0" alt="Cheap Festival Bologna Foto IG"></mj-image>
       </mj-column>
       <mj-column vertical-align="middle">
-        <mj-text font-size="13px" font-weight="200" line-height="16px">Vi consiglio di dare un'occhiata al profilo di Cheap Festival, un progetto di public art a Bologna. Con i loro manifesti e le call libera ad artist*, hanno contaminato lo spazio pubblico diffondendo messaggi di speranza, cambiamento e inclusione. Questo è per tutti gli/le amanti della grafica e dell'attivismo come forma d'arte.</mj-text>
-        <mj-text font-size="16px" font-weight="200" line-height="16px" text-decoration="underline"><a href="https://www.instagram.com/cheapfestival/" style="color:inherit">Scopri Cheap Festival</a></mj-text>
+        <mj-text font-size="15px" font-weight="200" line-height="20px">Vi consiglio di dare un'occhiata al profilo di Cheap Festival, un progetto di public art a Bologna. Con i loro manifesti e le call libera ad artist*, hanno contaminato lo spazio pubblico diffondendo messaggi di speranza, cambiamento e inclusione. Questo è per tutti gli/le amanti della grafica e dell'attivismo come forma d'arte.</mj-text>
+        <mj-table>
+          <tr>
+            <td>
+              <p style="font-size:16px; font-weight:400"><a href="https://www.instagram.com/cheapfestival/" style="color:inherit">Scopri Cheap Festival</a></p>
+            </td>
+            <td><img src="https://github.com/mirai-plus/newsletters/blob/main/img/luppi_foto.png?raw=true" alt="arrow"/></td>
+          </tr>
+        </mj-table>
       </mj-column>
     </mj-section>
-<mj-section background-color="#F7514E">
-<mj-column><mj-text color="#ffffff" align="center">Molto presto su altri social vicino a voi ;)</mj-text></mj-column></mj-section>
+    <mj-section background-color="#F7514E">
+      <mj-column>
+        <mj-text color="#ffffff" align="center">Molto presto su altri social vicino a voi ;)</mj-text>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
