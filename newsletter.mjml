@@ -1,118 +1,93 @@
 <mjml>
-
   <mj-head>
     <mj-title>mirai - Benvenut*</mj-title>
-
     <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;800&display=swap" />
-
     <mj-preview>mirai è qui</mj-preview>
-
     <mj-attributes>
       <mj-all font-family="Poppins" />
     </mj-attributes>
-
   </mj-head>
-
   <mj-body width="500px">
-
     <mj-section background-color="#F7514E" padding-bottom="0px">
       <mj-column>
         <mj-image src="https://raw.githubusercontent.com/mirai-plus/mirai/1c3471fcd2e7f55e45bd2304bf061fcb7d2af3b4/public/img/m.svg" width="50px" alt="mirai logo extended" align="left" />
       </mj-column>
     </mj-section>
-
     <mj-section background-color="#F7514E" padding="0">
       <mj-column padding-top="0px">
-        <mj-text font-family="Poppins" font-weight="900" font-size="50px" color="#fff">
-          mirai
-        </mj-text>
-        <mj-text font-size="20px" font-family="Poppins" color="#ffffff" align="left" line-height="28px">Collettivo autonomo Transfemminista Intersezionale</mj-text>
-        <mj-text color="#ffffff" align="left" line-height="20px">
-          Qui a mirai promuoviamo l'inclusione e vogliamo parlare di tutti temi di cui non si parla abbastanza.
-
-        </mj-text>
+        <mj-text font-family="Poppins" font-weight="900" font-size="50px" color="#fff"> mirai </mj-text>
+        <mj-text font-size="20px" font-family="Poppins" color="#ffffff" align="left" line-height="28px">Collettivo autonomo Femminista Intersezionale</mj-text>
+        <mj-text color="#ffffff" align="left" line-height="20px"> Qui a mirai promuoviamo l'inclusione e vogliamo parlare di tutti temi di cui non si parla abbastanza. </mj-text>
       </mj-column>
     </mj-section>
-
-    <mj-section background-color="#F7514E" padding="0">
+    <mj-section background-color="#F7514E" padding="0" background-url="https://github.com/mirai-plus/newsletters/blob/main/img/banner.png?raw=true" background-repeat="no-repeat" background-size="contain" background-position="bottom">
       <mj-column>
-        <mj-image src="https://github.com/mirai-plus/newsletters/blob/main/img/banner.png?raw=true" alt="banner sagome" padding="0" />
+        <mj-spacer height="100px"></mj-spacer>
       </mj-column>
     </mj-section>
-
     <mj-section background-color="#3DD35F">
       <mj-column>
-        <mj-text align="center" line-height="1.5" color="#000" font-size="15px">
-          Il nostro progetto partirà nel mese di <b>Marzo</b> sottoforma di laboratorio extrascolastico, nei pomeriggi dal lunedì al venerdì e andremo ad affrontare le tematiche che avete richiesto di più.
-        </mj-text>
+        <mj-text align="center" line-height="1.5" color="#000" font-size="15px"> Il nostro progetto partirà nel mese di <b>Marzo</b> sottoforma di laboratorio extrascolastico, nei pomeriggi dal lunedì al venerdì e andremo ad affrontare le tematiche che avete richiesto di più. </mj-text>
       </mj-column>
     </mj-section>
-
-    <mj-section background-color="white">
+    <mj-section background-color="#3B6ED6">
+      <mj-column>
+        <mj-text font-size="20px" color="#fff" align="left"> Giosuè </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-url="https://images.unsplash.com/photo-1568383293350-156a59eb6491" background-size="contain" position="bottom right" background-repeat="no-repeat" >
       <!-- right paragraph -->
-      <mj-column vertical-align="middle">
-        <mj-text font-size="20px" color="#626262" align="left">
-          Find amazing places
-        </mj-text>
-
-        <mj-text color="#525252" align="left">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur
-        </mj-text>
+      <mj-column background-color="white">
+        <mj-text font-size="20px" color="#626262" align="left"> Find amazing places </mj-text>
+        <mj-text color="#525252" align="left"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur </mj-text>
       </mj-column>
-
-      <!-- Left image -->
-      <mj-column vertical-align="middle" padding="0">
-        <mj-image src="https://images.unsplash.com/photo-1568383293350-156a59eb6491" padding="0">
+      <!-- Left space -->
+      <mj-column>
+        <mj-spacer height="200px"></mj-spacer>
       </mj-column>
     </mj-section>
-
-    <mj-section background-color="white" padding="0" direction="rtl">
+    
+    <!--Name-->
+    <mj-section background-color="#3B6ED6" background-url="#">
+      <mj-column>
+        <mj-text font-size="20px" color="#fff" align="left"> Eleonora </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-url="https://images.unsplash.com/photo-1568383293350-156a59eb6491" background-size="contain"  direction="rtl">
       <!-- left paragraph -->
-      <mj-column vertical-align="middle">
-        <mj-text font-size="20px" color="#626262" align="left">
-          Find amazing places
-        </mj-text>
-
-        <mj-text color="#525252" align="left">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur
-        </mj-text>
+      <mj-column background-color="#ffffff">
+        <mj-text font-size="20px" color="#626262" align="left"> Find amazing places </mj-text>
+        <mj-text color="#525252" align="left"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin rutrum enim eget magna efficitur </mj-text>
       </mj-column>
-
-      <!-- right image -->
-      <mj-column padding="0" vertical-align="middle">
-        <mj-image src="https://images.unsplash.com/photo-1568383293350-156a59eb6491" padding="0">
+      <!-- right space -->
+      <mj-column>
+        <mj-spacer height="150px"></mj-spacer>
       </mj-column>
-
     </mj-section>
-
-    <mj-section background-color="white">
+    <!--Name-->
+    <mj-section background-color="#3B6ED6" background-url="#">
+      <mj-column>
+        <mj-text font-size="20px"  align="left" color="#ffffff"> Francesco </mj-text>
+        <mj-text color="#ffffff" line-height="20px">
+          Ciao a tutt*! Mi chiamo Francesco e sono un Web e Graphic Designer, attivista per ArciGay e peer educator specializzato in salute sessuale e affettività.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px" background-size="contain" background-position="bottom right" background-repeat="no-repeat" background-url="https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/134432157_1301602083572619_7775998258483914880_n.jpg?_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=-_bU276WSK0AX-nF8u5&tp=1&oh=d3b6b6ba703633fd2b335e4814c1f31d&oe=6043F3E5">
       <!-- right paragraph -->
-      <mj-column vertical-align="top">
-        <mj-text font-size="20px" color="#626262" align="left">
-          Francesco
-        </mj-text>
-
-        <mj-text color="#000" align="left" line-height="1.3">
-          Ciao a tutt*!<br>
-          Mi chiamo Francesco e sono un Web e Graphic Designer da 4 anni, attivista per ArciGay e peer educator specializzato in salute sessuale e affettività.
-          <br><br>
-          Il link che vi lascio è un profilo insta di un progetto di public art di Bologna. Con i loro manifesti e le call ad artist*, hanno contaminato lo spazio pubblico diffondendo messaggi di speranza, cambiamento e inclusione.
-          <br>Per tutti gli amanti della grafica e dell'attivismo come forma d'arte.
-        </mj-text>
-        <mj-button background-color="#3B6ED6" href="#" font-family="Poppins" align="left" text-transform="uppercase" href="https://www.instagram.com/cheapfestival/">Scopri</mj-button>
+      <mj-column background-color="#fff">
+        <mj-text color="#000" align="left" line-height="18px"> Vi consiglio di dare un'occhiata al profilo di <b>Cheap Festival</b>, un progetto di public art di Bologna. Con i loro manifesti e le call ad artist*, hanno contaminato lo spazio pubblico diffondendo messaggi di speranza, cambiamento e inclusione. <br>Per tutti gli amanti della grafica e dell'attivismo come forma d'arte. </mj-text>
+        <mj-button background-color="#3B6ED6" href="#" font-family="Poppins" align="left" text-transform="uppercase" href="https://www.instagram.com/cheapfestival/" width="100%">Scopri</mj-button>
       </mj-column>
-
       <!-- Left image -->
-      <mj-column vertical-align="middle" padding="0">
-        <mj-image src="https://instagram.fmxp6-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/134432157_1301602083572619_7775998258483914880_n.jpg?_nc_ht=instagram.fmxp6-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=-_bU276WSK0AX-nF8u5&tp=1&oh=d3b6b6ba703633fd2b335e4814c1f31d&oe=6043F3E5" padding="0">
+      <mj-column vertical-align="middle">
+        <mj-spacer height="230px" />
       </mj-column>
     </mj-section>
-
     <mj-section background-color="#F7514E">
       <mj-column padding="0" vertical-align="middle">
         <mj-text color="#FFFFFF" align="center">A presto anche su altri canali social!</mj-text>
       </mj-column>
     </mj-section>
-
   </mj-body>
 </mjml>
