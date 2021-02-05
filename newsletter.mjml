@@ -21,10 +21,10 @@
 
 
     <!--BANNER PER RICAPITOLARE-->
-    <mj-section background-color="#ffffff" background-url="https://github.com/mirai-plus/newsletters/blob/main/img/sfondo_hero.png?raw=true" background-repeat="no-repeat" background-position="top" padding-bottom="50px">
+    <mj-section background-color="#ffffff" background-url="https://github.com/mirai-plus/newsletters/blob/main/img/banner_sfondo.png?raw=true" background-size="cover" background-repeat="no-repeat" background-position="right center" padding-bottom="50px">
       
       <mj-column>
-        <mj-image src=""></mj-image>
+        <mj-image src="https://github.com/mirai-plus/newsletters/blob/main/img/calendar.png?raw=true" width="80px"></mj-image>
         <mj-text align="center">Quando?</br>Da <b>Marzo</b></mj-text>
       </mj-column>
       
