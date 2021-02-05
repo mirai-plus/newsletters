@@ -57,10 +57,10 @@ Analizzati i dati, é nato il progetto <b>mirai</b>.</br>
         <mj-text font-size="15px" font-weight="300" line-height="24px">Nonostante la laurea in lettere, la mia grande passione è il Giappone, per questo il link che vi lascio è quello di NipPop, associazione culturale di Bologna che ha come obiettivo l’esplorazione della cultura pop del Giappone contemporaneo.</mj-text>
         <mj-table>
           <tr>
-            <td style="width:130px">
+            <td style="text-align:right">
               <p style="font-size:18px; font-weight:400"><a href="https://www.nippop.it/it" style="color:inherit">Scopri NipPop</a></p>
             </td>
-            <td><img src="https://github.com/mirai-plus/newsletters/blob/main/img/arrow-up.png?raw=true" alt="arrow" width="30px"/></td>
+            <td style="width:40px"><a href="https://www.nippop.it/it" style="color:inherit"><img src="https://github.com/mirai-plus/newsletters/blob/main/img/arrow-up.png?raw=true" alt="arrow" width="30px"/></a></td>
           </tr>
         </mj-table>
       </mj-column>
@@ -84,10 +84,10 @@ Analizzati i dati, é nato il progetto <b>mirai</b>.</br>
         <mj-text font-size="15px" font-weight="300" line-height="24px">Il mio consiglio è Stone Butch Blues, un libro di Leslie Feinberg disponibile gratuitamente online in inglese e francese. Non è una lettura leggera, ma in questo romanzo vengono affrontate tantissime tematiche ancora attuali come la sessualità, i ruoli di genere, il lavoro e le brutalità della vita negli Stati Uniti.</mj-text>
         <mj-table>
           <tr>
-            <td style="width:240px">
+            <td style="text-align:right">
               <p style="font-size:18px; font-weight:400"><a href="https://www.lesliefeinberg.net/" style="color:inherit">Scopri Stone Butch Blues</a></p>
             </td>
-            <td><img src="https://github.com/mirai-plus/newsletters/blob/main/img/arrow-up.png?raw=true" alt="arrow" width="30px"/></td>
+            <td style="width:30px;"><a href="https://www.lesliefeinberg.net/" style="color:inherit"><img src="https://github.com/mirai-plus/newsletters/blob/main/img/arrow-up.png?raw=true" alt="arrow" width="30px"/></a></td>
           </tr>
         </mj-table>
       </mj-column>
@@ -111,10 +111,10 @@ Analizzati i dati, é nato il progetto <b>mirai</b>.</br>
         <mj-text font-size="15px" font-weight="300" line-height="24px">Vi consiglio di dare un'occhiata al profilo di Cheap Festival, un progetto di public art a Bologna. Con i loro manifesti e le <i>open call</i> ad artist*, hanno contaminato lo spazio pubblico diffondendo messaggi di speranza, cambiamento e inclusione. Questo è per tutti gli/le amanti della grafica e dell'attivismo come forma d'arte.</mj-text>
         <mj-table>
           <tr>
-            <td style="width:200px">
+            <td style="text-align:right">
               <p style="font-size:18px; font-weight:400"><a href="https://www.instagram.com/cheapfestival/" style="color:inherit">Scopri Cheap Festival</a></p>
             </td>
-            <td><img src="https://github.com/mirai-plus/newsletters/blob/main/img/arrow-up.png?raw=true" alt="arrow" width="30px"/></td>
+            <td style="width:40px"><a href="https://www.instagram.com/cheapfestival/" style="color:inherit"><img src="https://github.com/mirai-plus/newsletters/blob/main/img/arrow-up.png?raw=true" alt="arrow" width="30px"/></a></td>
           </tr>
         </mj-table>
       </mj-column>
