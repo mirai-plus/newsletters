@@ -1,27 +1,44 @@
 <mjml>
   <mj-head>
-    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;800&display=swap" />
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600;800&display=swap" />
     <mj-attributes>
       <mj-all font-family="Poppins" />
     </mj-attributes>
   </mj-head>
   <mj-body width="595px">
-    <mj-section background-color="#F7514E" padding-bottom="0px">
+    
+    
+    <!--SEZIONE PRESENTAZIONE-->
+    <mj-section background-color="#F7514E" background-url="https://github.com/mirai-plus/newsletters/blob/main/img/sfondo_hero.png?raw=true" background-repeat="no-repeat" background-position="top" padding-bottom="50px">
       <mj-column>
-        <mj-image src="https://raw.githubusercontent.com/mirai-plus/mirai/1c3471fcd2e7f55e45bd2304bf061fcb7d2af3b4/public/img/m.svg" width="50px" alt="mirai_logo_m" align="left" />
+        <mj-image src="https://raw.githubusercontent.com/mirai-plus/mirai/1c3471fcd2e7f55e45bd2304bf061fcb7d2af3b4/public/img/m.svg" width="50px" alt="mirai_logo_m" align="left" padding-bottom="30px" />
+        <mj-text font-family="Poppins" font-weight="900" font-size="50px" color="#fff" line-height="40px">mirai</mj-text>
+        <mj-text font-size="20px" font-family="Poppins" color="#ffffff" line-height="22px" font-weight="200">Collettivo autonomo intersezionale</mj-text>
+        <mj-spacer height="10px"></mj-spacer>
+        <mj-text color="#ffffff" line-height="20px" font-size="13px" font-weight="200"> Abbiamo come obiettivo costruire un percorso orizzontale condiviso di educazione, che si possa <b style="font-weight:600;">adattare alle necessità</b> e che si arricchisca grazie a chi vi partecipa. Vogliamo parlare di tanti temi a cui non si presta ancora abbastanza attenzione.</br></br> I tre temi più richiesti sono stati <b style="font-weight:600;">orientamento post-diploma, educazione sessuale e benessere pisco-fisico</b>. Organizzeremo incontri e laboratori extrascolastici durante la settimana a cadenza variabile gestiti da noi o con ospiti. <br></br> Nel frattempo, vi lasciamo con una breve presentazione e <b style="font-weight:600;">3 consigli</b> di cose che ci piacciono, sempre sul tema di ciò che pensiamo sia ancora ai margini o esterno a ciò che viene di solito insegnato a scuola. </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#F7514E">
+
+
+    <!--BANNER PER RICAPITOLARE-->
+    <mj-section background-color="#ffffff" background-url="https://github.com/mirai-plus/newsletters/blob/main/img/sfondo_hero.png?raw=true" background-repeat="no-repeat" background-position="top" padding-bottom="50px">
+      
       <mj-column>
-        <mj-text font-family="Poppins" font-weight="900" font-size="50px" color="#fff"> mirai </mj-text>
-        <mj-text font-size="20px" font-family="Poppins" color="#ffffff" line-height="28px">Collettivo autonomo intersezionale</mj-text>
-        <mj-text color="#ffffff" line-height="20px"> Abbiamo come obiettivo costruire un percorso orizzontale condiviso di educazione, che si possa adattare alle necessità e che si arricchisca grazie a chi vi partecipa. Vogliamo parlare di tanti temi a cui non si presta ancora abbastanza attenzione.</br></br> 
-        I tre temi più richiesti sono stati orientamento post-diploma, educazione sessuale e benessere pisco-fisico.
-        </br> Organizzeremo incontri e laboratori extrascolastici durante la settimana a cadenza variabile gestiti da noi o con ospiti.
-      <br></br> 
-      Nel frattempo, vi lasciamo con una breve presentazione e 3 consigli di cose che ci piacciono, sempre sul tema di ciò che pensiamo sia ancora ai margini o esterno a ciò che viene di solito insegnato a scuola. 
-      </mj-text>
+        <mj-image src=""></mj-image>
+        <mj-text align="center">Quando?</br>Da <b>Marzo</b></mj-text>
       </mj-column>
+      
+      <mj-column>
+        <mj-image src=""></mj-image>
+        <mj-text align="center"></br></mj-text>
+      </mj-column>
+      
+      <mj-column>
+        <mj-image src=""></mj-image>
+        <mj-text align="center"></br></mj-text>
+      </mj-column>
+      
     </mj-section>
+
   </mj-body>
 </mjml>
