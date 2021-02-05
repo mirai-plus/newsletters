@@ -76,13 +76,17 @@ Analizzati i dati, é nato il progetto <b>mirai</b>.</br>
         <mj-text font-size="15px" font-weight="300" line-height="24px">Ciao! Sono Eleonora e sono una studentessa laureanda in lingue e letterature straniere. Scrivo e collaboro con CanadaUsa.net, progetto dell’Università di Bologna, e mi interesso di cultura pop e studi di genere.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding-top="0" direction="rtl">
+    <mj-section padding="0" direction="rtl">
       <mj-column vertical-align="top">
         <mj-image src="https://github.com/mirai-plus/newsletters/blob/main/img/elli_foto.png?raw=true" padding="0"></mj-image>
       </mj-column>
       <mj-column vertical-align="top">
         <mj-text font-size="15px" font-weight="300" line-height="24px">Il mio consiglio è Stone Butch Blues, un libro di Leslie Feinberg disponibile gratuitamente online in inglese e francese. Non è una lettura leggera, ma in questo romanzo vengono affrontate tantissime tematiche ancora attuali come la sessualità, i ruoli di genere, il lavoro e le brutalità della vita negli Stati Uniti.</mj-text>
-        <mj-table>
+      </mj-column>
+    </mj-section>
+<mj-section padding-top="0">
+  <mj-column>
+    <mj-table>
           <tr>
             <td style="text-align:right">
               <p style="font-size:18px; font-weight:400"><a href="https://www.lesliefeinberg.net/" style="color:inherit">Scopri Stone Butch Blues</a></p>
@@ -90,8 +94,8 @@ Analizzati i dati, é nato il progetto <b>mirai</b>.</br>
             <td style="width:30px;"><a href="https://www.lesliefeinberg.net/" style="color:inherit"><img src="https://github.com/mirai-plus/newsletters/blob/main/img/arrow-up.png?raw=true" alt="arrow" width="30px"/></a></td>
           </tr>
         </mj-table>
-      </mj-column>
-    </mj-section>
+  </mj-column>
+</mj-section>
     <mj-section padding="0 20px">
       <mj-column>
         <mj-divider border-color="#4A7CDD" border-style="dashed" border-width="2px" padding="0"></mj-divider>
