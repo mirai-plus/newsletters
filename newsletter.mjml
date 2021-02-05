@@ -1,13 +1,11 @@
 <mjml>
   <mj-head>
-    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600;800&display=swap" />
+    <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600;700;800&display=swap" />
     <mj-attributes>
       <mj-all font-family="Poppins" />
     </mj-attributes>
   </mj-head>
   <mj-body width="595px">
-    
-    
     <!--SEZIONE PRESENTAZIONE-->
     <mj-section background-color="#F7514E" background-url="https://github.com/mirai-plus/newsletters/blob/main/img/sfondo_hero.png?raw=true" background-repeat="no-repeat" background-position="top" padding-bottom="50px">
       <mj-column>
@@ -18,27 +16,83 @@
         <mj-text color="#ffffff" line-height="20px" font-size="13px" font-weight="200"> Abbiamo come obiettivo costruire un percorso orizzontale condiviso di educazione, che si possa <b style="font-weight:600;">adattare alle necessità</b> e che si arricchisca grazie a chi vi partecipa. Vogliamo parlare di tanti temi a cui non si presta ancora abbastanza attenzione.</br></br> I tre temi più richiesti sono stati <b style="font-weight:600;">orientamento post-diploma, educazione sessuale e benessere pisco-fisico</b>. Organizzeremo incontri e laboratori extrascolastici durante la settimana a cadenza variabile gestiti da noi o con ospiti. <br></br> Nel frattempo, vi lasciamo con una breve presentazione e <b style="font-weight:600;">3 consigli</b> di cose che ci piacciono, sempre sul tema di ciò che pensiamo sia ancora ai margini o esterno a ciò che viene di solito insegnato a scuola. </mj-text>
       </mj-column>
     </mj-section>
-
-
     <!--BANNER PER RICAPITOLARE-->
-    <mj-section background-color="#ffffff" background-url="https://github.com/mirai-plus/newsletters/blob/main/img/banner_sfondo.png?raw=true" background-size="cover" background-repeat="no-repeat" background-position="right center" padding-bottom="50px">
-      
-      <mj-column>
-        <mj-image src="https://github.com/mirai-plus/newsletters/blob/main/img/calendar.png?raw=true" width="80px"></mj-image>
-        <mj-text align="center">Quando?</br>Da <b>Marzo</b></mj-text>
+    <mj-section background-color="#ffffff" background-url="https://github.com/mirai-plus/newsletters/blob/main/img/banner_sfondo.png?raw=true" background-repeat="no-repeat" background-position="center" background-size="cover">
+      <mj-column width="100%">
+        <mj-text align="center" font-size="24px" font-weight="800">Stay tuned!</mj-text>
+        <mj-image src="https://github.com/mirai-plus/newsletters/blob/main/img/line.png?raw=true" width="227px" height="6px" padding="0" padding-bottom="20px" />
       </mj-column>
-      
-      <mj-column>
-        <mj-image src=""></mj-image>
-        <mj-text align="center"></br></mj-text>
+      <mj-column width="33%">
+        <mj-image src="https://github.com/mirai-plus/newsletters/blob/main/img/calendar.png?raw=true" width="65px" padding-bottom="0px" />
+        <mj-text align="center" font-size="16px" line-height="18px">Quando?</br>Da <b>Marzo</b></mj-text>
       </mj-column>
-      
-      <mj-column>
-        <mj-image src=""></mj-image>
-        <mj-text align="center"></br></mj-text>
+      <mj-column width="33%">
+        <mj-image src="https://github.com/mirai-plus/newsletters/blob/main/img/graph.png?raw=true" width="65px" padding-bottom="0px"></mj-image>
+        <mj-text align="center" font-size="16px" line-height="18px">Su cosa?</br>Sui <b>dati raccolti</b></br>nel form</mj-text>
       </mj-column>
-      
+      <mj-column width="33%">
+        <mj-image src="https://github.com/mirai-plus/newsletters/blob/main/img/search.png?raw=true" width="65px" padding-bottom="0px"></mj-image>
+        <mj-text align="center" font-size="16px" line-height="18px">Come?</br><b>Incontri</b> e <b>laboratori</b> extrascolastici</mj-text>
+      </mj-column>
     </mj-section>
+    <!--SEZIONE PRESENTAZIONI-->
 
+    <mj-section padding-top="25px">
+      <mj-column>
+        <mj-text font-size="25px" font-weight="400">Giosuè</mj-text>
+        <mj-text font-size="13px" font-weight="200" line-height="16px">Ciao ragazz*! Sono Giosuè e sono uno studente laureando in lettere moderne, presidente di Politéia, un’associazione culturale mirandolese che tratta di attualità e politica, e giornalista per La Falla, giornale del Cassero LGBTI+ Center di Bologna. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0">
+      <mj-column vertical-align="middle">
+        <mj-image src="https://github.com/mirai-plus/newsletters/blob/main/img/gio_foto.png?raw=true" padding="0"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text font-size="13px" font-weight="200" line-height="16px">Nonostante la laurea in lettere, la mia grande passione è il Giappone, per questo il link che vi lascio è quello di NipPop, associazione culturale di Bologna che ha come obbiettivo l’esplorazione della cultura pop del Giappone contemporaneo</mj-text>
+        <mj-text font-size="16px" font-weight="200" line-height="16px" text-decoration="underline"><a href="https://www.nippop.it/it" style="color:inherit">Scopri NipPop</a></mj-text>
+      </mj-column>
+    </mj-section>
+<mj-section padding="0 20px">
+  <mj-column>
+  <mj-divider border-color="#4A7CDD" border-style="dashed" border-width="2px" padding="0"></mj-divider>
+  </mj-column>
+</mj-section>
+<mj-section padding-top="15px">
+      <mj-column>
+        <mj-text font-size="25px" font-weight="400">Eleonora</mj-text>
+        <mj-text font-size="13px" font-weight="200" line-height="16px">Ciao ragazz*! Sono Giosuè e sono uno studente laureando in lettere moderne, presidente di Politéia, un’associazione culturale mirandolese che tratta di attualità e politica, e giornalista per La Falla, giornale del Cassero LGBTI+ Center di Bologna. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0" direction="rtl">
+      <mj-column vertical-align="middle">
+        <mj-image src="https://github.com/mirai-plus/newsletters/blob/main/img/elli_foto.png?raw=true" padding="0"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text font-size="13px" font-weight="200" line-height="16px">Nonostante la laurea in lettere, la mia grande passione è il Giappone, per questo il link che vi lascio è quello di NipPop, associazione culturale di Bologna che ha come obbiettivo l’esplorazione della cultura pop del Giappone contemporaneo</mj-text>
+        <mj-text font-size="16px" font-weight="200" line-height="16px" text-decoration="underline"><a href="https://www.lesliefeinberg.net/" style="color:inherit">Scopri Feinberg</a></mj-text>
+      </mj-column>
+    </mj-section>
+<mj-section padding="0 20px">
+  <mj-column>
+  <mj-divider border-color="#4A7CDD" border-style="dashed" border-width="2px" padding="0"></mj-divider>
+  </mj-column>
+</mj-section>
+<mj-section padding-top="15px">
+      <mj-column>
+        <mj-text font-size="25px" font-weight="400">Francesco</mj-text>
+        <mj-text font-size="13px" font-weight="200" line-height="16px">Ciao ragazz*! Sono Giosuè e sono uno studente laureando in lettere moderne, presidente di Politéia, un’associazione culturale mirandolese che tratta di attualità e politica, e giornalista per La Falla, giornale del Cassero LGBTI+ Center di Bologna. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0" padding-bottom="0">
+      <mj-column vertical-align="middle">
+        <mj-image src="https://github.com/mirai-plus/newsletters/blob/main/img/luppi_foto.png?raw=true" padding="0" alt="Cheap Festival Bologna Foto IG"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text font-size="13px" font-weight="200" line-height="16px">Nonostante la laurea in lettere, la mia grande passione è il Giappone, per questo il link che vi lascio è quello di NipPop, associazione culturale di Bologna che ha come obbiettivo l’esplorazione della cultura pop del Giappone contemporaneo</mj-text>
+        <mj-text font-size="16px" font-weight="200" line-height="16px" text-decoration="underline"><a href="https://www.instagram.com/cheapfestival/" style="color:inherit">Scopri Cheap Festival</a></mj-text>
+      </mj-column>
+    </mj-section>
+<mj-section background-color="#F7514E">
+<mj-column><mj-text color="#ffffff" align="center">Molto presto su altri social vicino a voi ;)</mj-text></mj-column></mj-section>
   </mj-body>
 </mjml>
