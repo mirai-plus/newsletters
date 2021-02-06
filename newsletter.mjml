@@ -12,7 +12,7 @@
     <mj-section>
       <mj-column>
         <mj-text align="center" font-size="10px" line-height="20px">
-          [[PERMALINK_FULL_LINK]] se non vedi bene la mail
+          <u>[[PERMALINK_FULL_LINK]]</u> se non vedi bene la mail
         </mj-text>
       </mj-column>
     </mj-section>
