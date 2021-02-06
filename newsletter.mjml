@@ -130,10 +130,8 @@ Analizzati i dati, é nato il progetto <b>mirai</b>.</br>
     </mj-section>
 <mj-section background-color="#ffffff">
         <mj-column>
-          <mj-text align="center">
-            <p>
-              Questa mail è stata inviata a  [[EMAIL_TO]], <a href="[[UNSUB_LINK_EN]]" style="color:inherit;text-decoration:none;" target="_blank">clicca qui per disiscriverti</a>.
-            </p>
+          <mj-text align="center" line-height="24px">
+            <a href="[[UNSUB_LINK_EN]]" style="color:inherit;text-decoration:none; border:1px solid #F4514E; padding:10px; border-radius:10px" target="_blank">Clicca qui per disiscriverti</a>
           </mj-text>
         </mj-column>
       </mj-section>
