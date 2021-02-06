@@ -9,6 +9,13 @@
   </mj-head>
   <mj-body width="595px" background-color="#FFCBCA">
     <!--SEZIONE PRESENTAZIONE-->
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" font-size="10px" line-height="20px">
+          [[PERMALINK_FULL_LINK]] se non vedi bene la mail
+        </mj-text>
+      </mj-column>
+    </mj-section>
     <mj-section background-color="#F7514E" background-url="https://github.com/mirai-plus/newsletters/blob/main/img/sfondo_hero.png?raw=true" background-repeat="no-repeat" background-position="top" padding-bottom="50px">
       <mj-column>
         <mj-image src="https://raw.githubusercontent.com/mirai-plus/mirai/1c3471fcd2e7f55e45bd2304bf061fcb7d2af3b4/public/img/m.svg" width="50px" alt="mirai_logo_m" align="left" padding-bottom="30px" />
@@ -46,7 +53,7 @@ Analizzati i dati, é nato il progetto <b>mirai</b>.</br>
     <mj-section padding-top="25px" background-color="#ffffff">
       <mj-column>
         <mj-text font-size="25px" font-weight="600">Giosuè</mj-text>
-        <mj-text font-size="15px" font-weight="300" line-height="20px">Ciao ragazz*! Sono Giosuè e sono uno studente laureando in lettere moderne, presidente di Politéia, un’associazione culturale mirandolese che tratta di attualità e politica, e giornalista per La Falla, giornale del Cassero LGBTI+ Center di Bologna. </mj-text>
+        <mj-text font-size="15px" font-weight="300" line-height="24px">Ciao ragazz*! Sono Giosuè e sono uno studente laureando in lettere moderne, presidente di Politéia, un’associazione culturale mirandolese che tratta di attualità e politica, e giornalista per La Falla, giornale del Cassero LGBTI+ Center di Bologna. </mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding-top="0" background-color="#ffffff">
