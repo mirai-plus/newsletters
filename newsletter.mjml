@@ -53,7 +53,7 @@ Analizzati i dati, é nato il progetto <b>mirai</b>.</br>
     <mj-section padding-top="25px" background-color="#ffffff">
       <mj-column>
         <mj-text font-size="25px" font-weight="600">Giosuè</mj-text>
-        <mj-text font-size="15px" font-weight="300" line-height="24px">Ciao ragazz*! Sono Giosuè e sono uno studente laureando in lettere moderne, presidente di Politéia, un’associazione culturale mirandolese che tratta di attualità e politica, e giornalista per La Falla, giornale del Cassero LGBTI+ Center di Bologna. </mj-text>
+        <mj-text font-size="15px" font-weight="300" line-height="24px">Ciao ragazz*! Sono Giosuè e sono uno studente laureando in lettere moderne, presidente di Politéia, un’associazione culturale mirandolese che tratta di attualità e politica, e autore per La Falla, giornale del Cassero LGBTI+ Center di Bologna. </mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding-top="0" background-color="#ffffff">
@@ -65,7 +65,7 @@ Analizzati i dati, é nato il progetto <b>mirai</b>.</br>
         <mj-table>
           <tr>
             <td style="text-align:right">
-              <p style="font-size:18px; font-weight:400"><a href="https://www.nippop.it/it" style="color:inherit">Scopri NipPop</a></p>
+              <p style="font-size:18px; font-weight:400"><a href="https://bit.ly/2YOSlcO" style="color:inherit">Scopri NipPop</a></p>
             </td>
             <td style="width:40px"><a href="https://www.nippop.it/it" style="color:inherit"><img src="https://github.com/mirai-plus/newsletters/blob/main/img/arrow-up.png?raw=true" alt="arrow" width="30px"/></a></td>
           </tr>
@@ -96,7 +96,7 @@ Analizzati i dati, é nato il progetto <b>mirai</b>.</br>
     <mj-table>
           <tr>
             <td style="text-align:right">
-              <p style="font-size:18px; font-weight:400"><a href="https://www.lesliefeinberg.net/" style="color:inherit">Scopri Stone Butch Blues</a></p>
+              <p style="font-size:18px; font-weight:400"><a href="http://bit.ly/3pVVALv" style="color:inherit">Scopri Stone Butch Blues</a></p>
             </td>
             <td style="width:30px;"><a href="https://www.lesliefeinberg.net/" style="color:inherit"><img src="https://github.com/mirai-plus/newsletters/blob/main/img/arrow-up.png?raw=true" alt="arrow" width="30px"/></a></td>
           </tr>
@@ -123,7 +123,7 @@ Analizzati i dati, é nato il progetto <b>mirai</b>.</br>
         <mj-table>
           <tr>
             <td style="text-align:right">
-              <p style="font-size:18px; font-weight:400"><a href="https://www.instagram.com/cheapfestival/" style="color:inherit">Scopri Cheap Festival</a></p>
+              <p style="font-size:18px; font-weight:400"><a href="https://bit.ly/3cN2COJ" style="color:inherit">Scopri Cheap Festival</a></p>
             </td>
             <td style="width:40px"><a href="https://www.instagram.com/cheapfestival/" style="color:inherit"><img src="https://github.com/mirai-plus/newsletters/blob/main/img/arrow-up.png?raw=true" alt="arrow" width="30px"/></a></td>
           </tr>
