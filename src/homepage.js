@@ -34,8 +34,8 @@ const homepage = posts => `
                   </div>`).join("")}
             </div>
         </div>
-        <footer class="">
-              ${`<p class="text-center font-light">© ${new Date().getFullYear()} ${config.authorName}, Find the code on <a href="https://github.com/mirai-plus/newsletter">GitHub</a></p>`}
+        <footer class="p-4 bg-blue-700">
+              ${`<p class="text-center font-light text-white">© ${new Date().getFullYear()} ${config.authorName}, Find the code on <a href="https://github.com/mirai-plus/newsletter">GitHub</a></p>`}
         </footer>
     </body>
 </html>
