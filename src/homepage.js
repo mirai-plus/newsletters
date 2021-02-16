@@ -23,7 +23,7 @@ const homepage = posts => `
                 <h3 class="text-center text-xl pt-2 font-light max-w-screen-sm mx-auto text-gray-700">Dai un'occhiata alle vecchie newsletter che abbiamo mandato per non perderti
                     nemmeno una notizia</h3>
             </div>
-            <div class="lista flex flex-row space-x-4 min-h-screen pt-6 pb-20">
+            <div class="lista flex flex-row space-x-4 min-h-screen pt-10 pb-20">
                 ${posts.map(post => 
                   `<div class="post bg-white rounded-md shadow-md p-4">
                     <h3>
