@@ -1,7 +1,7 @@
 ---
 title: Presentazione progetto 'mirai'
 date: "2021-02-08T09:00:00.000Z"
-description: Vi presentiamo il nostro progetto:\ mirai. Ecco i nostri 3 consigli
+description: "Vi presentiamo il nostro progetto: mirai. Ecco i nostri 3 consigli"
 ---
     <!doctype html>
     <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
