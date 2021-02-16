@@ -23,27 +23,20 @@ const homepage = posts => `
                 <h3 class="text-center text-xl pt-2 font-light max-w-screen-sm mx-auto text-gray-700">Dai un'occhiata alle vecchie newsletter che abbiamo mandato per non perderti
                     nemmeno una notizia</h3>
             </div>
-            <div class="lista flex flex-row">
-                ${posts
-                  .map(
-                    post => `<div class="post">
-                    <h3><a href="./${post.path}">${
-                      post.attributes.title
-                    }</a></h3>
-                        <small>${new Date(
-                          parseInt(post.attributes.date)
-                        ).toDateString()}</small>
-                      <p>${post.attributes.description}</p>
-                    </div>`
-                  )
-                  .join("")}
+            <div class="lista flex flex-row space-x-4 min-h-screen">
+                ${posts.map(post => 
+                  `<div class="post flex-1">
+                    <h3>
+                      <a href="./${post.path}">${post.attributes.title}</a>
+                    </h3>
+                    <small>${new Date(parseInt(post.attributes.date)).toDateString()}</small>
+                    <p>${post.attributes.description}</p>
+                  </div>`).join("")}
             </div>
-            <footer>
-              ${`<p>© ${new Date().getFullYear()} ${
-                config.authorName
-              }, Find the code on <a href="https://github.com/mirai-plus/newsletter">GitHub</a></p>`}
-            </footer>
         </div>
+        <footer class="">
+              ${`<p class="text-center font-light">© ${new Date().getFullYear()} ${config.authorName}, Find the code on <a href="https://github.com/mirai-plus/newsletter">GitHub</a></p>`}
+        </footer>
     </body>
 </html>
 `;
