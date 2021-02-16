@@ -4,11 +4,16 @@
 // const lista = document.querySelector('.lista')
 //requiring path and fs modules
 const path = require('path');
-const fs = require('fs-extra');
+const fs = require('fs');
 //Regex to match with
 const regex = /([a-zA-Z0-9\s_\\.\-\(\):])+(.html|.HTML)$/i
 //joining path of directory 
 const directoryPath = path.join(__dirname, '../newsletters');
+//Leggi la data di creazione di un file
+function createdDate (file) {  
+    const birthtime = fs.statSync(directoryPath+'/'+file)
+    console.log(birthtime) 
+}
 //passing directoryPath and callback function
 fs.readdir(directoryPath, (err, files) => {
     //handling error
@@ -28,7 +33,11 @@ fs.readdir(directoryPath, (err, files) => {
             // //stampa nella pagina la singola scheda della newsletter
             // lista.appendChild(nl)
             console.log(file)
+            createdDate(file)
         }
 
     });
 });
+
+  
+  

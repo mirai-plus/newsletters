@@ -21,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/mirai-plus/newsletters/issues"
   },
-  "homepage": "https://github.com/mirai-plus/newsletters#readme",
-  "dependencies": {
-    "fs-extra": "^9.1.0"
-  }
+  "homepage": "https://github.com/mirai-plus/newsletters#readme"
 }
