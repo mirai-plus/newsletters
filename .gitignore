@@ -2,3 +2,6 @@
 node_modules
 .vscode
 .DS_Store
+
+#cartella dove vengono salvati i file del comando 'npm run build'
+public
