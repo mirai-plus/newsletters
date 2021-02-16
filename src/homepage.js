@@ -17,7 +17,7 @@ const homepage = posts => `
         <link rel="stylesheet" href="./assets/css/style.css">
     </head>
     <body>
-        <div class="grotesk">
+        <div class="max-w-screen-lg mx-auto">
             
             <div class="pt-20 px-4">
                 <h1 class="text-center text-6xl font-black text-gray-800">mirai</h1>
@@ -25,7 +25,7 @@ const homepage = posts => `
                 <h3 class="text-center text-xl pt-2 font-light max-w-screen-sm mx-auto text-gray-700">Dai un'occhiata alle vecchie newsletter che abbiamo mandato per non perderti
                     nemmeno una notizia</h3>
             </div>
-            <div class="posts lista flex flex-row">
+            <div class="lista flex flex-row">
                 ${posts
                   .map(
                     post => `<div class="post">
