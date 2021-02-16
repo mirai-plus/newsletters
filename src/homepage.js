@@ -18,12 +18,6 @@ const homepage = posts => `
     </head>
     <body>
         <div class="grotesk">
-            <header>
-                <h1>${config.blogName}</h1>
-                <p>—</p>
-                <p>This blog is written by <a href="${config.authorWebsite}">${config.authorName}</a>, ${config.authorDescription}.</p>
-                <hr />
-            </header>
             
             <div class="pt-20 px-4">
                 <h1 class="text-center text-6xl font-black text-gray-800">mirai</h1>
