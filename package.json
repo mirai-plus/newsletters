@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/mirai-plus/newsletters/issues"
   },
-  "homepage": "https://github.com/mirai-plus/newsletters#readme"
+  "homepage": "https://github.com/mirai-plus/newsletters#readme",
+  "dependencies": {
+    "front-matter": "^4.0.2",
+    "highlight.js": "^10.6.0",
+    "marked": "^2.0.0"
+  }
 }
