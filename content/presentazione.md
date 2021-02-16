@@ -1,6 +1,6 @@
 ---
 title: Presentazione progetto 'mirai'
-date: "2021-02-28T22:10:00Z"
+date: ""2021-02-08T09:00:00.000Z""
 description: Vi presentiamo il nostro progetto:\ mirai. Ecco i nostri 3 consigli
 ---
     <!doctype html>
