@@ -1,3 +1,4 @@
 #File HTML esportato con la funzione di VSCode "MJML> Export HTML"
 node_modules
+.vscode
 .DS_Store
