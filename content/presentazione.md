@@ -1,7 +1,7 @@
 ---
-title: Post One
-date: "2020-02-28T22:19:00Z"
-description: My reasons for starting a blog.
+title: Presentazione progetto 'mirai'
+date: "2021-02-28T22:10:00Z"
+description: Vi presentiamo il nostro progetto:\ mirai. Ecco i nostri 3 consigli
 ---
     <!doctype html>
     <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
