@@ -3,17 +3,23 @@
 //requiring path and fs modules
 const path = require('path');
 const fs = require('fs');
+//Regex to match with
+const regex = /([a-zA-Z0-9\s_\\.\-\(\):])+(.html|.HTML)$/i
+let filesArray = [];
 //joining path of directory 
 const directoryPath = path.join(__dirname, '../newsletters');
 //passsing directoryPath and callback function
-fs.readdir(directoryPath, function (err, files) {
+fs.readdir(directoryPath, (err, files) => {
     //handling error
     if (err) {
         return console.log('Unable to scan directory: ' + err);
-    } 
+    }
     //listing all files using forEach
-    files.forEach(function (file) {
-        // Do whatever you want to do with the file
-        console.log(file); 
+    files.forEach(file => {
+        // Cerca se i file combaciano con l'espressione regolare e stampali
+        if (file.match(regex)) {
+            filesArray.push(file)
+        }
     });
+    console.log(filesArray);
 });
