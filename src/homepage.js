@@ -25,7 +25,7 @@ const homepage = posts => `
             </div>
             <div class="lista flex flex-row space-x-4 min-h-screen pt-6">
                 ${posts.map(post => 
-                  `<div class="post flex-1">
+                  `<div class="post flex-1 bg-white rounded-md shadow-md p-4">
                     <h3>
                       <a href="./${post.path}">${post.attributes.title}</a>
                     </h3>
