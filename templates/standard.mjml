@@ -72,9 +72,8 @@ Analizzati i dati, é nato il progetto <b>mirai</b>.</br>
         </mj-table>
       </mj-column>
     </mj-section>
-    <mj-section padding="0 20px" background-color="#ffffff">
+    <mj-section background-color="#ffffff" background-url="https://github.com/mirai-plus/newsletters/blob/main/public/assets/img/01/helix.gif?raw=true" background-size="contain">
       <mj-column>
-        <mj-divider border-color="#4A7CDD" border-style="dashed" border-width="2px" padding="0"></mj-divider>
       </mj-column>
     </mj-section>
     <mj-section padding-top="15px" background-color="#ffffff">
