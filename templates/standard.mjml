@@ -28,18 +28,38 @@
     </mj-section>
     <mj-section background-color="#F7514E" background-url="https://github.com/mirai-plus/newsletters/blob/main/public/assets/img/01/sfondo_qea.png?raw=true" background-size="cover" background-position="top">
       <mj-column>
-        <mj-text align="center" color="#ffffff" font-size="30px" font-weight="900" padding-bottom="0">Università 101</mj-text>
+        <mj-text align="center" color="#ffffff" font-size="30px" font-weight="900" padding-bottom="0">UNI 101</mj-text>
         <mj-text align="center" color="#ffffff" font-size="16px" font-weight="400" padding-bottom="15px" line-height="20px">Guida di sopravvivenza all’università</mj-text>
-        <mj-text align="center" color="#ffffff" font-size="13px" font-weight="300" line-height="18px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Diam, mus diam amet, sed eleifend. Adipiscing aliquam ut lectus aliquam laoreet ullamcorper vitae scelerisque.</mj-text>
+        <mj-text align="center" color="#ffffff" font-size="13px" font-weight="300" line-height="18px">Per alcune settimane, le newsletter saranno dedicate a domande e risposte su alcuni dei temi fondamentali legati all’orientamento post diploma, cominciando dallo studio e dalla vita all’università.<br></br> Tutte le domande e risposte saranno raccolte e disponibili sempre anche sul nostro sito una volta online!</mj-text>
         <mj-spacer height="40px"></mj-spacer>
       </mj-column>
     </mj-section>
+    <!--PRIMO-->
     <mj-section background-color="#ffffff" padding-top="40px">
       <mj-column>
         <mj-text font-weight="300" font-size="16px" line-height="24px">Come funziona <b>l'anno accademico?</b></mj-text>
-        <mj-text font-size="13px" font-weight="300" line-height="20px">L’anno accademico può risultare diverso da quello scolastico, ma non ti preoccupare, non è nulla di insormontabile. A seconda della facoltà che sceglierai, ogni anno dovrai compilare un piano di studi che segnerà le materie che studierai durante l’anno accademico.<br></br>In alcune facoltà i piani di studio hanno esami prestabiliti, in altre avrai alcuni esami obbligatori e altri da scegliere all’interno di una lista.
-L’anno accademico è diviso in due grandi blocchi, chiamati semestri: il primo va da settembre a dicembre, il secondo da febbraio a maggio. 
-Durante questi mesi avrai le lezioni delle materie che hai scelto.</mj-text>
+        <mj-text font-size="13px" font-weight="300" line-height="20px">In italia l’anno accademico può risultare diverso da quello scolastico, ma non ti preoccupare, non è nulla di insormontabile. A seconda della facoltà che sceglierai, ogni anno dovrai compilare un piano di studi che segnerà le materie che studierai durante l’anno accademico. In alcune facoltà i piani di studio hanno esami prestabiliti, in altre avrai alcuni esami obbligatori e altri da scegliere all’interno di una lista. In base alla facoltà scelta questo piano può essere sempre modificabile oppure può restare aperto solo per un determinato periodo di tempo. L’anno accademico è diviso in due grandi blocchi, chiamati semestri: il primo va da settembre a dicembre, il secondo da febbraio a maggio. Durante questi mesi avrai le lezioni delle materie che hai scelto.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!--SECONDO-->
+    <mj-section background-color="#ffffff" padding-top="40px">
+      <mj-column>
+        <mj-text font-weight="300" font-size="16px" line-height="24px">Come funzionano le lezioni all’università?</mj-text>
+        <mj-text font-size="13px" font-weight="300" line-height="20px">Le lezioni universitarie durano circa due ore, anche se mezz’ora si perde perchè i professori iniziano un quarto d’ora dopo e finiscono un quarto d’ora prima, il cosiddetto quarto d’ora accademico. Alcuni professori non lo fanno, e preferiscono fare una pausa di mezz’ora a metà lezione. A meno che il prof non si sia accordato con gli studenti per organizzare le ore in maniera particolare, il quarto d’ora accademico è tradizionalmente previsto per tutte le lezioni e spesso è fondamentale se le lezioni sono durante le ore del pranzo o tardi nel pomeriggio. Nel caso in cui gli insegnanti non prevedano alcuna pausa fra le lezioni si può fare riferimento ai rappresentanti degli studenti.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!--TERZO-->
+    <mj-section background-color="#ffffff" padding-top="40px">
+      <mj-column>
+        <mj-text font-weight="300" font-size="16px" line-height="24px">Una volta finite le lezioni che succede?</mj-text>
+        <mj-text font-size="13px" font-weight="300" line-height="20px">Una volta finite le lezioni di un semestre, inizia la famosa e temutissima sessione d’esami. In date prestabilite dal prof, le date d’appello, dovrai registrarti per poter dare l’esame, che sarà scritto o orale, o entrambi a seconda di quel che dice il professore. Le sessioni d’esame sono solitamente 3: quella invernale, quella estiva e quella di settembre. Anche in questo caso ci sono variazioni da facoltà a facoltà e da insegnante a insegnante: per alcuni corsi c’è la possibilità di fare pre-appelli, cioè esami precedenti alla sessione durante il periodo canonico di sessione, parziali, cioè parti dell’esame intero, ognuna con un programma ridotto, o appelli extra straordinari su richiesta degli studenti.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!--QUARTO-->
+    <mj-section background-color="#ffffff" padding-top="40px">
+      <mj-column>
+        <mj-text font-weight="300" font-size="16px" line-height="24px">Devo dare tutti gli esami di tutte le materie che ho seguito durante il semestre?</mj-text>
+        <mj-text font-size="13px" font-weight="300" line-height="20px">Se durante il semestre hai seguito le lezioni di 4 materie diverse, non sei tenuto a dare gli esami di tutte e 4 le materie. Non ti preoccupare se non riesci! Tantissimi studenti non danno o passano tutti gli esami ‘prestabiliti’ di una sessione ma organizzano come preferiscono gli esami durante il resto dell’anno accademico. Se non sei riuscito a dare l’esame di una determinata materia puoi sempre recuperare alla sessione successiva. Per esempio: se hai seguito le lezioni di storia dell’arte contemporanea nel primo semestre (settembre-dicembre) ma non sei riuscito a darlo durante la sessione invernale, puoi sempre riprovare durante la sessione estiva, o in quella di settembre, o addirittura in quella invernale dell’anno successivo! Una eccezione a questa regola sono i salti di appello: alcuni insegnanti non permettono agli studenti di ripetere l’esame durante la stessa sessione ma rimandano direttamente a quella successiva. Informati sulle regole definite da ogni insegnante per i propri esami e ricordati di fare riferimento ai rappresentanti nel caso in cui credi che i tuoi diritti da studente non vengano rispettati. In linea generale per ogni corso devono essere garantiti almeno 6 appelli d’esame all’anno, solitamente divisi in 2 per sessione.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
