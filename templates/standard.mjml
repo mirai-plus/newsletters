@@ -35,14 +35,14 @@
       </mj-column>
     </mj-section>
     <!--PRIMO-->
-    <mj-section background-color="#ffffff" padding-top="40px">
+    <mj-section background-color="#ffffff" padding-top="40px" background-url="https://github.com/mirai-plus/newsletters/blob/main/public/assets/img/01/1.png?raw=true" background-size="100%" background-position="right top" background-repeat="no-repeat">
       <mj-column>
         <mj-text font-weight="300" font-size="16px" line-height="24px">Come funziona <b>l'anno accademico?</b></mj-text>
         <mj-text font-size="13px" font-weight="300" line-height="20px">In italia l’anno accademico può risultare diverso da quello scolastico, ma non ti preoccupare, non è nulla di insormontabile. A seconda della facoltà che sceglierai, ogni anno dovrai compilare un piano di studi che segnerà le materie che studierai durante l’anno accademico. In alcune facoltà i piani di studio hanno esami prestabiliti, in altre avrai alcuni esami obbligatori e altri da scegliere all’interno di una lista. In base alla facoltà scelta questo piano può essere sempre modificabile oppure può restare aperto solo per un determinato periodo di tempo. L’anno accademico è diviso in due grandi blocchi, chiamati semestri: il primo va da settembre a dicembre, il secondo da febbraio a maggio. Durante questi mesi avrai le lezioni delle materie che hai scelto.</mj-text>
       </mj-column>
     </mj-section>
     <!--SECONDO-->
-    <mj-section background-color="#ffffff" padding-top="40px">
+    <mj-section background-color="#ffffff" padding-top="40px" background-url="https://github.com/mirai-plus/newsletters/blob/main/public/assets/img/01/2.png?raw=true" background-size="100%" background-position="left top" background-repeat="no-repeat" border="10px solid #3E71D3">
       <mj-column>
         <mj-text font-weight="300" font-size="16px" line-height="24px">Come funzionano le lezioni all’università?</mj-text>
         <mj-text font-size="13px" font-weight="300" line-height="20px">Le lezioni universitarie durano circa due ore, anche se mezz’ora si perde perchè i professori iniziano un quarto d’ora dopo e finiscono un quarto d’ora prima, il cosiddetto quarto d’ora accademico. Alcuni professori non lo fanno, e preferiscono fare una pausa di mezz’ora a metà lezione. A meno che il prof non si sia accordato con gli studenti per organizzare le ore in maniera particolare, il quarto d’ora accademico è tradizionalmente previsto per tutte le lezioni e spesso è fondamentale se le lezioni sono durante le ore del pranzo o tardi nel pomeriggio. Nel caso in cui gli insegnanti non prevedano alcuna pausa fra le lezioni si può fare riferimento ai rappresentanti degli studenti.</mj-text>
